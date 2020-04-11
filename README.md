@@ -1,19 +1,19 @@
 # NeXTA-GMNS
 Open-source Network EXplorer for Traffic Analysis (NeXTA) Graphical User Interface for General Modeling Network Specification (GMNS)
 
-####Contact: Dr. Xuesong Zhou at Arizona State University.
+####Contact: Dr. Xuesong (Simon) Zhou at Arizona State University.
 Email: xzhou74@asu.edu
 
-##What is GMNS?
+#What is GMNS?
 General Travel Network Format Specification is a product of Zephyr Foundation, which aims to advance the field through flexible and efficient support, education, guidance, encouragement, and incubation.
 Further Details in https://zephyrtransport.org/projects/2-network-standard-and-tools/
 
-##Goals of NeXTA development
+#Goals of NeXTA development
 1. Provide an open-source code base to enable transportation researchers and software developers to expand its range of capabilities to various traffic management application.
 2. Present results to other users by visualizing time-varying traffic flow dynamics and traveler route choice behavior in an integrated environment.
 3. Provide a free, educational tool for students to understand the complex decision-making process in transportation planning and optimization processes. The lowercase letter "e" in NeXTA stands for education.
 
-##How to use
+#How to use
 Latest Software Release 04-20-2020
 
 Step 1: Download software package from "release" folder 
@@ -35,7 +35,7 @@ A simple 6-node example with agent files can be found at
 https://github.com/xzhou99/NeXTA-GMNS/tree/master/examples/GMNS_AMS_Networks/6-node_network
 
 
-##Other capabilities of NeXTA
+#Other capabilities of NeXTA
 
 1. Create, edit, store, and visualize transportation network data in GMNS format.
 
