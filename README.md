@@ -14,20 +14,25 @@ Further Details in https://zephyrtransport.org/projects/2-network-standard-and-t
 3. Provide a free, educational tool for students to understand the complex decision-making process in transportation planning and optimization processes. The lowercase letter "e" in NeXTA stands for education.
 
 ##How to use
-Latest Software Release 04-20-2020 
+Latest Software Release 04-20-2020
+
 Step 1: Download software package from "release" folder 
+
 https://github.com/xzhou99/NeXTA-GMNS/tree/master/releases
 
 Use file menu->open to open file node.csv to visualize the simple GMNS Lima sample data set
 ![nexta](docs/images/nexta.png)
 
 Step 2: Check out the standard GMNS data sets at
+
 https://github.com/zephyr-data-specs/GMNS/tree/master/Small_Network_Examples/Lima/GMNS
+
 https://github.com/xzhou99/NeXTA-GMNS/tree/master/examples/GMNS_Small_Network_Examples/Lima/GMNS
 
 Step 3: Build your own GMNS data set.
+
 A simple 6-node example with agent files can be found at
-https://github.com/xzhou99/NeXTA-GMNS/tree/master/examples/GMNS%2BAMS%20Networks/6-node_network
+https://github.com/xzhou99/NeXTA-GMNS/tree/master/examples/GMNS_AMS_Networks/6-node_network
 
 
 ##Other capabilities of NeXTA
@@ -51,10 +56,11 @@ https://github.com/xzhou99/NeXTA-GMNS/tree/master/examples/GMNS_AMS_Networks/Sio
 4. NEXTA also can support the  conversion between GIS shape file and user-defined CSV files.
   
 
-### The related open-source software, DTALite, uses a computationally simple but theoretically rigorous traffic queuing model in its lightweight mesoscopic simulation engine. Its built-in parallel computing capability dramatically speeds-up the analysis process by using widely available multi-core CPU hardware. It takes about 1 hour to compute agent-based dynamic traffic equilibrium for a large-scale network with 1 million vehicles for 20 iterations.
+## DTALite 
+The related open-source software, DTALite, uses a computationally simple but theoretically rigorous traffic queuing model in its lightweight mesoscopic simulation engine. Its built-in parallel computing capability dramatically speeds-up the analysis process by using widely available multi-core CPU hardware. It takes about 1 hour to compute agent-based dynamic traffic equilibrium for a large-scale network with 1 million vehicles for 20 iterations.
 https://github.com/xzhou99/dtalite_software_release
 - typical network: 2000 traffic zones, 200000 links, 2-10 million vehiches
 
-### DTALite/NeXTA applications in the United States
+DTALite/NeXTA applications in the United States
 ![maps](docs/images/Project_US.png)
 
