@@ -1,0 +1,5 @@
+agent_id,o_zone_id,d_zone_id,o_node_id,d_node_id,demand_type,time_period,volume,cost,travel_time,distance,node_sequence,time_sequence,geometry_sequence
+100,1,7,1,20,SOV,0700_0900,1,360,360,22,1;2;6;8;7;18;20;,,
+200,2,6,2,18,SOV,0700_0900,1,240,240,12,2;6;8;7;18;,,
+300,3,7,3,20,SOV,0700_0900,1,300,300,20,3;12;13;24;21;20;,,
+400,4,6,6,18,SOV,0700_0900,1,180,180,7,6;8;7;18;,,
