@@ -54,8 +54,8 @@ https://github.com/xzhou99/NeXTA-GMNS/tree/master/examples/GMNS_AMS_Networks/Sio
   
   
 4. NEXTA also can support the  conversion between GIS shape file and user-defined CSV files.
-  
-
+  https://github.com/xzhou99/NeXTA-GMNS/tree/master/tools/GIS_shape_file_CSV_file_conversion
+![nexta](docs/images/nexta-GIS.png)
 ## DTALite 
 The related open-source software, DTALite, uses a computationally simple but theoretically rigorous traffic queuing model in its lightweight mesoscopic simulation engine. Its built-in parallel computing capability dramatically speeds-up the analysis process by using widely available multi-core CPU hardware. It takes about 1 hour to compute agent-based dynamic traffic equilibrium for a large-scale network with 1 million vehicles for 20 iterations.
 https://github.com/xzhou99/dtalite_software_release
